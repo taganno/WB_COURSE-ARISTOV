@@ -10,4 +10,5 @@ select count(*) from book.ride;
 --------
  144000
 (1 строка)
-``` - Getting a list of rides from the "ride" table
+```
+Getting a list of rides from the "ride" table
