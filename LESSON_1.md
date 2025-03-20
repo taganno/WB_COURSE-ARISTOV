@@ -1,4 +1,4 @@
- wget https://storage.googleapis.com/thaibus/thai_small.tar.gz && tar -xf thai_small.tar.gz && psql < thai.sql - Downoload DB from repository
+ wget https://storage.googleapis.com/thaibus/thai_small.tar.gz && tar -xf thai_small.tar.gz && psql < thai.sql >Downoload DB from repository
 
 ```\c thai``` - Connect to DB "thai"
 
